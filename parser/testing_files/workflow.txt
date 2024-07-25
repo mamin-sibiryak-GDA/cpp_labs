@@ -1,0 +1,6 @@
+desc
+1 = readfile C:\Users\User\Desktop\labs2\lab2\testing_files\Thus_Spake_Zarathustra.txt
+2 = writefile C:\Users\User\Desktop\labs2\lab2\testing_files\out.txt
+3 = sort
+csed
+1 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 3 -> 2
